@@ -1,0 +1,9 @@
+ Runtime NZEC Error-> 
+    NZEC error is a runtime error and occurs mostly
+    when negative array index is accesed or the program which 
+    we have written is utilizing more memory space than the allocated memory
+    for our program to run.
+
+ Runtime TLE (Time Limit Exceed)  -> 
+    The main problem with this error is that it will not allow you to know that
+    your solution would reach to correct solution or not!  
